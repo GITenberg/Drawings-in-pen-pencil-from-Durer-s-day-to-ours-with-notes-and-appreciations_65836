@@ -1,10 +1,13 @@
 _repo: Drawings-in-pen-pencil-from-Durer-s-day-to-ours-with-notes-and-appreciations_65836
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Sheringham, George
     gutenberg_agent_id: '53521'
     url: http://www.gutenberg.org/2009/agents/53521
+covers:
+- cover_type: archival
+  image_path: 65836-h/images/cover.jpg
 creator:
   editor:
     agent_name: Holme, C. Geoffrey (Charles Geoffrey)
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '25298'
     url: http://www.gutenberg.org/2009/agents/25298
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65836#Drawings-in-pen-pencil-from-Durer-s-day-to-ours-with-notes-and-appreciations
 gutenberg_issued: '2021-07-14'
 gutenberg_type: Text
 identifiers:
