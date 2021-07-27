@@ -1,0 +1,31 @@
+_repo: Drawings-in-pen-pencil-from-Durer-s-day-to-ours-with-notes-and-appreciations_65836
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Sheringham, George
+    gutenberg_agent_id: '53521'
+    url: http://www.gutenberg.org/2009/agents/53521
+creator:
+  editor:
+    agent_name: Holme, C. Geoffrey (Charles Geoffrey)
+    aliases:
+    - Holme, Charles Geoffrey
+    - Holme, C. G. (Charles Geoffrey)
+    - Holme, Geoffrey
+    birthdate: 1887
+    deathdate: 1954
+    gutenberg_agent_id: '25298'
+    url: http://www.gutenberg.org/2009/agents/25298
+description: ''
+gutenberg_issued: '2021-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65836'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: "Drawings in pen & pencil from Dürer's day to ours\r\nwith notes and appreciations"
+url: http://www.gutenberg.org/ebooks/65836
